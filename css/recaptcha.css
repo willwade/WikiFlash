@@ -1,0 +1,110 @@
+.recaptchatable td img {
+display:block;
+}
+.recaptchatable .recaptcha_image_cell center img {
+height:57px;
+}
+.recaptchatable .recaptcha_image_cell center {
+height:57px;
+}
+.recaptchatable .recaptcha_image_cell {
+background-color:white;
+height:57px;
+}
+#recaptcha_area, #recaptcha_table {
+width:318px !important;
+}
+.recaptchatable, #recaptcha_area tr, #recaptcha_area td, #recaptcha_area th {
+border:0 none !important;
+border-collapse:collapse !important;
+margin:0 !important;
+padding:0 !important;
+vertical-align:middle !important;
+}
+.recaptchatable * {
+border:0 none;
+bottom:auto;
+color:black;
+font-family:helvetica,sans-serif;
+font-size:8pt;
+left:auto;
+margin:0;
+padding:0;
+position:static;
+right:auto;
+text-align:left !important;
+top:auto;
+}
+.recaptchatable #recaptcha_image {
+margin:auto;
+}
+.recaptchatable img {
+border:0 none !important;
+margin:0 !important;
+padding:0 !important;
+}
+.recaptchatable a, .recaptchatable a:hover {
+background:transparent none repeat scroll 0 0 !important;
+border:0 none !important;
+color:blue;
+font-weight:normal;
+outline-color:-moz-use-text-color;
+outline-style:none;
+outline-width:medium;
+padding:0 !important;
+text-decoration:none;
+}
+.recaptcha_input_area {
+background:transparent none repeat scroll 0 0 !important;
+height:45px !important;
+margin-left:20px !important;
+margin-right:5px !important;
+margin-top:4px !important;
+position:relative !important;
+width:146px !important;
+}
+.recaptchatable label.recaptcha_input_area_text {
+background:transparent none repeat scroll 0 0 !important;
+bottom:auto !important;
+height:auto !important;
+left:auto !important;
+margin:0 !important;
+padding:0 !important;
+position:static !important;
+right:auto !important;
+top:auto !important;
+width:auto !important;
+}
+.recaptcha_theme_red label.recaptcha_input_area_text, .recaptcha_theme_white label.recaptcha_input_area_text {
+color:black !important;
+}
+.recaptcha_theme_blackglass label.recaptcha_input_area_text {
+color:white !important;
+}
+.recaptchatable #recaptcha_response_field {
+bottom:7px !important;
+font-size:10pt;
+margin:0 !important;
+padding:0 !important;
+position:absolute !important;
+width:145px !important;
+}
+.recaptcha_theme_blackglass #recaptcha_response_field, .recaptcha_theme_white #recaptcha_response_field {
+border:1px solid gray;
+}
+.recaptcha_theme_red #recaptcha_response_field {
+border:1px solid #CCA940;
+}
+.recaptcha_audio_cant_hear_link {
+color:black;
+font-size:7pt;
+}
+.recaptchatable {
+line-height:1em;
+}
+#recaptcha_instructions_error {
+color:red !important;
+}
+.recaptcha_is_showing_audio .recaptcha_only_if_image, .recaptcha_isnot_showing_audio .recaptcha_only_if_audio, .recaptcha_had_incorrect_sol .recaptcha_only_if_no_incorrect_sol, .recaptcha_nothad_incorrect_sol .recaptcha_only_if_incorrect_sol {
+display:none !important;
+}

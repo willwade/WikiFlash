@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule !\.(gif|jpg|png|css|js|ico|xml|pdf|doc|html)$ /srv/otwikiflash.net/public/htdocs/index.php
+
+<FilesMatch "\.(?i:pdf|doc)$">
+  ForceType application/octet-stream
+#  Header set Content-Disposition attachment
+</FilesMatch>

@@ -1,0 +1,15 @@
+<h1 class="cushycms">&quot;What is this Wikipedia nonsense?&quot; and more answers to your questions..</h1>
+    <div class="text cushycms"><p><b>&quot;Wikipedia es un país libre, multilingüe, enciclopedia de contenido abierto de proyectos gestionados por la Fundación sin ánimo de lucro Wikimedia. Su nombre es un acrónimo de las palabras wiki (una tecnología para crear sitios web en colaboración) y enciclopedia. 10 millones de artículos de Wikipedia, una cuarta parte de los cuales son en Inglés, se han escrito en colaboración por voluntarios de todo el mundo, y casi todos sus artículos pueden ser editados por cualquiera que pueda acceder a la página web Wikipedia &quot;(Wikipedia, 2009)</b></p>
+<p><img class="signup floatleft" src="/images/commoncraft.jpg" alt="" />Lo anterior está tomado directamente de la wikipedia. En pocas palabras su una enciclopedia que es editado por <b> </ b>! Si ve algo mal o una página que falta algo hecho crucial (o descaradamente mal) hacen la diferencia para estar bien! Para entender cómo funciona un wiki echar un vistazo al video a la izquierda</p>
+<br />
+<p>Aquí hay algunas preguntas más que usted debe estarse preguntando?</p>
+<p>&nbsp;</p>
+<ol>
+    <li><b> ¿Por qué debería compartir mi información al mundo?! Me ha tomado mucho tiempo para aprender este </b> ¿Le gustaría a otros a pasar la misma cantidad de tiempo que han tenido que aprender su información? En el futuro le gustaría pasar menos tiempo buscando y tratando de encontrar la información correcta y precisa? Compartir es bueno.</li>
+  <li> <b> Quiero ser acreditado para mi </b> Tenga en cuenta que todo lo que haces en la Wikipedia se escribe en el sistema como una edición por USTED. Así como alguien puede buscar una pieza de información infactual y el crédito que usted para que los usuarios pueden ver quién ha hecho una pieza de información de hechos. Si usted tiene alguna información única realmente jugosa Yo sugeriría que Wikipedia no puede ser el lugar para esta información. Otra solución puede ser vuelta de la esquina sin embargo .. </li>
+    <li> <b> ¡Horror! He ido y le dije a mis estudiantes a no utilizar la Wikipedia - ¿Qué va a decirles? </ B> No quiero ser el uno para decirte esto, pero diablos, su realidad en Aceptar para utilizar fuentes de información en Internet . Su justo importante que los estudiantes (y los médicos) consultar su información y tener la confianza de que sea usado en el</li>
+    <li> <b> ¿Cómo va a hacer un seguimiento de un gran número de ediciones> </ b> Ahora esa es una buena pregunta. Esperamos mantener una estrecha vigilancia en las páginas y ayudar al proceso de limpieza a medida que avanzamos. </li>
+</ol>
+<p>&nbsp;</p></div>
+
+<div id="modalwikivideo" style="display:none;"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-dnL00TdmLY&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/-dnL00TdmLY&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></div>

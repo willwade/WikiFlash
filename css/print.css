@@ -1,0 +1,51 @@
+body {
+   background: white;
+   font-size: 12pt;
+   }
+#menu {
+   display: none;
+   }
+#wrapper, #content {
+   width: auto;
+   margin: 0 5%;
+   padding: 0;
+   border: 0;
+   float: none !important;
+   color: black;
+   background: transparent none;
+   }
+div#content {
+   margin-left: 10%;
+   padding-top: 1em;
+   border-top: 1px solid #930;
+   }
+div#mast {
+   margin-bottom: -8px;
+   }
+div#mast img {
+   vertical-align: bottom;
+   }
+a:link, a:visited {
+   color: #520;
+   background: transparent;
+   font-weight: bold;
+   text-decoration: underline;
+   }
+
+a:after, a:link:after  { 
+color: #000000;
+background-color:transparent; 
+content: " * Link " attr(href) "* "; }
+}
+a:visited:after {
+color:#000000; 
+background-color:transparent;
+content: " * Link " attr(href) "* "; }
+
+/*
+page-break-after:always;
+page-break-before:always;
+page-break-after:avoid;
+page-break-before:avoid;
+*/
+

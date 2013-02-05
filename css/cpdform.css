@@ -1,0 +1,112 @@
+html
+{
+  overflow: hidden;
+  height: 99%;
+}
+                         
+body
+{
+  background-color: #E6EAE9;
+  height: 99%;
+  margin: 0;
+  padding: 0;
+  line-height: 150%;
+  text-align: center;
+}
+
+*
+{
+  font-size: 8pt; 
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+  color: #000000;
+  text-align: left;
+}
+
+#topBanner
+{
+	background-color: #d3e2c3;
+	height: 250px;
+	text-align: center;
+	width: 100%;
+}
+
+h1, h2
+{
+	font-family: "Copperplate Gothic Light", "Lucida Grande", Verdana, Arial, sans-serif;
+	font-weight: bold;
+	padding-top: 50px;
+	margin-top: 0px;
+	line-height: 1em;
+	margin-right: auto;
+	width: 530px;
+	margin-left: auto;
+	text-align: center;
+	font-size:4em;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: bold;
+	
+}
+
+#bottomFrame
+{
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: 600px;
+}
+
+/* css tables */
+
+#mytable {
+	width: 600px;
+	padding: 0;
+	margin: 0;
+}
+
+caption {
+	padding: 0 0 5px 0;
+	width: 700px;	 
+	font: italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+
+th {
+	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #4f6b72;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 6px 6px 6px 12px;
+	background: #CAE8EA;
+}
+
+th.nobg {
+	border-top: 0;
+	border-left: 0;
+	border-right: 1px solid #C1DAD7;
+	background: none;
+}
+
+td {
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background: #fff;
+	padding: 6px 6px 6px 12px;
+	color: #4f6b72;
+}
+
+tr.odd td {
+	background: #F5FAFA;
+	color: #797268;
+}
+
+.date {
+	color: #4f6b72;
+	font-size: .8em;
+}
