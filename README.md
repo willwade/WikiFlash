@@ -1,6 +1,6 @@
 **README**
 
-This is the code base of otwikiflash. Not the most amazing of sites - but neatly created a rollcall of editors who submitted there name to the site and would track number of edits.. and provide users with a certificate for their CPD.
+This is the code base of otwikiflash. Not the most amazing of sites - but neatly created a rollcall of editors who submitted their name to the site and would track number of edits.. and provide users with a certificate for their CPD.
 
 Requirements:
 * LAMP (Linux, Apache, Mysql, PHP web server stack)
