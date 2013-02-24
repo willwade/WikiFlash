@@ -457,7 +457,7 @@ switch ($action) {
 				$mail->Host     = "mail.metaot.com";
 				$mail->Port 	= "26";
 				$mail->Username = 'mailserver+metaot.com';
-				$mail->Password = 'DhUVC5B4xpZn';
+				$mail->Password = 'PASSWORD-FOR-MAILSERVER';
 				$mail->Subject  = '[OTWikiFlash]'. $_form['clientSubj'];
 				$mail->Body     = $tpl->fetch('email_admin_html.tpl.php');
 				$mail->AltBody  =  $tpl->fetch('email_admin_text.tpl.php');
